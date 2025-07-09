@@ -1,6 +1,8 @@
 
 AI Project: ML, Deep Learning & NLP Applications
-This project demonstrates practical applications of classical machine learning, deep learning, and natural language processing (NLP) using Python frameworks. It includes theory, implementation, ethical considerations, and optional deployment.
+
+This project demonstrates practical applications of classical machine learning, deep learning, and natural language processing (NLP) using Python frameworks. 
+It includes theory, implementation, ethical considerations, and optional deployment.
 
 
 
